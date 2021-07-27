@@ -1,0 +1,23 @@
+{
+  "name": "rc-002116",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto usando npm",
+  "main": "index.html",
+  "scripts": {
+    "test": 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miihfranca/Criar--projeto-utilizando-NPM.git"
+  },
+  "keywords": [
+    "michele",
+    "fernanda"
+  ],
+  "author": "ola mundo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miihfranca/Criar--projeto-utilizando-NPM/issues"
+  },
+  "homepage": "https://github.com/miihfranca/Criar--projeto-utilizando-NPM#readme"
+}
